@@ -2,7 +2,6 @@ package com.rapidlearner.goodworklabstask.view.adapter
 
 import androidx.recyclerview.widget.RecyclerView
 import com.rapidlearner.goodworklabstask.databinding.InflateRowPostViewBinding
-import com.rapidlearner.goodworklabstask.databinding.InflateRowShimmerEffectBinding
 import com.rapidlearner.goodworklabstask.model.Data
 
 class PostViewHolder(binding: InflateRowPostViewBinding) : RecyclerView.ViewHolder(binding.root) {
