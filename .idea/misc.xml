@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23177083333333334" />
         <entry key="app/src/main/res/layout/fragment_post_view.xml" value="0.23177083333333334" />
         <entry key="app/src/main/res/layout/inflate_row_post_view.xml" value="0.23177083333333334" />
         <entry key="app/src/main/res/layout/inflate_row_shimmer_effect.xml" value="0.23177083333333334" />
